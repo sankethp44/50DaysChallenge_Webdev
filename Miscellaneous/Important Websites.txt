@@ -2,3 +2,4 @@
 2)For random image: <img src:"https://picsum.photos/200" />(Here picsum.photos is the website name and 200 is the size in pixel)
 3)For unique color palettes: colorhunt.co
 4)To find different fonts style:font.google.com(refer video 39 from 12:30 to understand how to integrate.
+5)For understanding flexbox with animations:https://css-tricks.com/snippets/css/a-guide-to-flexbox/
